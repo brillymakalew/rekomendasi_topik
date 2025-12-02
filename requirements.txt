@@ -1,8 +1,2 @@
 streamlit
 pandas
-openpyxl
-xlrd
-requests
-beautifulsoup4
-openai>=1.0.0
-python-dotenv
